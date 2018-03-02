@@ -1,0 +1,9 @@
+{
+  "go_home": "Go Home",
+  "error": {
+    "404": {
+      "title": "Page Not Found",
+      "description": "Page you were looking for does not exists"
+    }
+  }
+}

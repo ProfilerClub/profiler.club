@@ -1,0 +1,9 @@
+{
+  "go_home": "Ir al Inicio",
+  "error": {
+    "404": {
+      "title": "Página No Encontrada",
+      "description": "La página que buscabas no existe"
+    }
+  }
+}
