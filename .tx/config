@@ -1,0 +1,79 @@
+[main]
+host = https://www.transifex.com
+
+[profilerclub.auth-php]
+file_filter = resources/lang/<lang>/auth.php
+minimum_perc = 0
+source_file = resources/lang/en/auth.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.female-relationships-php]
+file_filter = resources/lang/<lang>/female-relationships.php
+minimum_perc = 0
+source_file = resources/lang/en/female-relationships.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.female-roles-php]
+file_filter = resources/lang/<lang>/female-roles.php
+minimum_perc = 0
+source_file = resources/lang/en/female-roles.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.male-relationships-php]
+file_filter = resources/lang/<lang>/male-relationships.php
+minimum_perc = 0
+source_file = resources/lang/en/male-relationships.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.male-roles-php]
+file_filter = resources/lang/<lang>/male-roles.php
+minimum_perc = 0
+source_file = resources/lang/en/male-roles.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.pagination-php]
+file_filter = resources/lang/<lang>/pagination.php
+minimum_perc = 0
+source_file = resources/lang/en/pagination.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.passwords-php]
+file_filter = resources/lang/<lang>/passwords.php
+minimum_perc = 0
+source_file = resources/lang/en/passwords.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.validation-php]
+file_filter = resources/lang/<lang>/validation.php
+minimum_perc = 0
+source_file = resources/lang/en/validation.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.validation-custom-php]
+file_filter = resources/lang/<lang>/validation/custom.php
+minimum_perc = 0
+source_file = resources/lang/en/validation/custom.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.validation-attributes-php]
+file_filter = resources/lang/<lang>/validation/attributes.php
+minimum_perc = 0
+source_file = resources/lang/en/validation/attributes.php
+source_lang = en
+type = PHP_ARRAY
+
+[profilerclub.vue-json]
+file_filter = resources/assets/locale/<lang>.json
+minimum_perc = 0
+source_file = resources/assets/locale/en.json
+source_lang = en
+type = KEYVALUEJSON

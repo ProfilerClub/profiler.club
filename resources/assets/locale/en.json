@@ -1,9 +1,54 @@
 {
-  "go_home": "Go Home",
-  "error": {
-    "404": {
-      "title": "Page Not Found",
-      "description": "Page you were looking for does not exists"
+    "Go Home": "Go Home",
+
+    "Profiler": "Profiler",
+    "About": "About",
+    "Pricing": "Pricing",
+
+    "Help and Support": "@:Help and @:Support",
+    "Help": "Help",
+    "Language selection": "@:Language selection",
+    "Language": "Language",
+    "Login": "Login",
+    "Logout": "Logout",
+    "Messages": "Messages",
+    "Notifications": "Notifications",
+    "Options": "Options",
+    "Register": "Register",
+    "Support": "Support",
+    "Upgrade subscription": "Upgrade subscription",
+
+    "Your real full name": "Your real full name.",
+    "Your unique nickname": "Your unique nickname.",
+    "Your main email address": "Your main email address.",
+
+    "Forgot your password?": "Forgot your password?",
+
+    "brand": {
+        "jobs": "Jobs",
+        "relationships": "Relationships",
+        "services": "Services",
+        "profiler": {
+            "jobs": "@:Profiler @brand.jobs",
+            "relationships": "@:Profiler @brand.relationships",
+            "services": "@:Profiler @brand.services"
+        }
+    },
+
+    "error": {
+        "404": {
+            "title": "Page Not Found",
+            "description": "Page you were looking for does not exists"
+        }
+    },
+
+    "form": {
+        "email": "E-Mail",
+        "login": "@:form.nickname or @:form.email",
+        "name": "Name",
+        "nickname": "Nickname",
+        "password_confirmation": "Password Confirmation",
+        "password": "Password",
+        "remember": "Remember me"
     }
-  }
 }

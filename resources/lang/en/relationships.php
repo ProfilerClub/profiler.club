@@ -1,8 +1,8 @@
 <?php
 
-$male = [
+$male = array(
     // Contact
-    'friend'        => 'Friend',
+    'male.friend'   => 'Friend',
     'coworker'      => 'Coworker',
     'father'        => 'Father',
     'son'           => 'Son',
@@ -19,11 +19,11 @@ $male = [
     'moderator'     => 'Moderator',
     'member'        => 'Member',
     'guest'         => 'Guest',
-];
+);
 
-$female = [
+$female = array(
     // Contact
-    'friend'        => 'Friend',
+    'female.friend' => 'Friend',
     'coworker'      => 'Coworker',
     'father'        => 'Mother',
     'son'           => 'Daughter',
@@ -40,12 +40,12 @@ $female = [
     'moderator'     => 'Moderator',
     'member'        => 'Member',
     'guest'         => 'Guest',
-];
+);
 
 
-$relationships = [
+$relationships = array(
     'grandchild' => 'Grandchild'
-];
+);
 
 $relationships += compact('male', 'female');
 

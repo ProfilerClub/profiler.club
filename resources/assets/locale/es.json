@@ -1,9 +1,54 @@
 {
-  "go_home": "Ir al Inicio",
-  "error": {
-    "404": {
-      "title": "Página No Encontrada",
-      "description": "La página que buscabas no existe"
+    "Go Home": "Ir al Inicio",
+
+    "Profiler": "Profiler",
+    "About": "Acerca de...",
+    "Pricing": "Precios",
+
+    "Help and Support": "@:Help y @:Support",
+    "Help": "Ayuda",
+    "Language selection": "Selección de @:Language",
+    "Language": "Idioma",
+    "Login": "Iniciar sesión",
+    "Logout": "Cerrar sesión",
+    "Messages": "Mensajes",
+    "Notifications": "Notificaciones",
+    "Options": "Opciones",
+    "Register": "Registrar",
+    "Support": "Suporte",
+    "Upgrade subscription": "Mejorar suscripción",
+
+    "Your real full name": "Tu nombre completo real.",
+    "Your unique nickname": "Tu apodo único.",
+    "Your main email address": "Tu correo electrónico principal.",
+
+    "Forgot your password?": "¿Olvidaste tu contraseña?",
+
+    "brand": {
+        "jobs": "Empleos",
+        "relationships": "Relaciones",
+        "services": "Servicios",
+        "profiler": {
+            "jobs": "@:Profiler @brand.jobs",
+            "relationships": "@:Profiler @brand.relationships",
+            "services": "@:Profiler @brand.services"
+        }
+    },
+
+    "error": {
+        "404": {
+            "title": "Página No Encontrada",
+            "description": "La página que buscabas no existe"
+        }
+    },
+
+    "form": {
+        "email": "Correo",
+        "login": "@:form.nickname o @:form.email",
+        "name": "Nombre",
+        "nickname": "Apodo",
+        "password_confirmation": "Confirmación de Contraseña",
+        "password": "Contraseña",
+        "remember": "Recuérdame"
     }
-  }
 }
